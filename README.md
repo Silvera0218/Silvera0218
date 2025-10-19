@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Silvera!
+### Hi, I'm Silvera.
 
 I am a Master's student in Mathematics at the University of Macau, specializing in **Elliptic Equations (PDEs)**, specifically focusing on problems of the **De Giorgi type**. My path to mathematics was interdisciplinary; **before my undergraduate studies in math**, I studied **Food Science, Biology, and Bioinformatics**.
 
