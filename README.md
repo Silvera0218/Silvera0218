@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Silvera!
 
-I am a Master's student in Mathematics at the University of Macau, specializing in **Elliptic Equations (PDEs)**.
+I am a Master's student in Mathematics at the University of Macau, specializing in **Elliptic Equations (PDEs)**.My research focuses on semilinear elliptic equations related to the Allen-Cahn equation and the De Giorgi conjecture. My path to mathematics was interdisciplinary; **before my undergraduate studies in math**, I studied **Food Science, Biology, and Bioinformatics**.
 
 Beyond my core research, I am an enthusiast of **Fluid Dynamics, Differential Geometry, and General Relativity**. My main passion is bridging the gap between complex mathematical theory and real-time, interactive visualization.
 
