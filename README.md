@@ -12,7 +12,7 @@ Beyond my core research, I am an enthusiast of **Fluid Dynamics, Differential Ge
 
 ---
 
-### My Featured Physics Simulations
+### Featured Astrophysical Simulations
 
 <table>
   <tr>
