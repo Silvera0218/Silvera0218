@@ -4,7 +4,7 @@ I am a Master's student in Mathematics at the University of Macau, specializing 
 
 Beyond my core research, I am an enthusiast of **Fluid Dynamics, Differential Geometry, and General Relativity**. My main passion is bridging the gap between complex mathematical theory and real-time, interactive visualization.
 
--  I’m currently building physically-accurate simulations of astrophysical phenomena.
+-  I’m interested in physically-accurate simulations of astrophysical phenomena and science fiction concept realizations.
 -  I’m self-learning **GLSL** and **ModernGL** to trace light through curved spacetime.
 -  How to reach me: [mc45151@um.edu.mo]
 
