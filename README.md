@@ -61,17 +61,17 @@ Beyond my core research, I am an enthusiast of **Fluid Dynamics, Differential Ge
 
 <table>
   <tr>
-    <td width="100%" valign="top">
-      <h3 align="center">3. 2D Incompressible Fluid Dynamics Simulator</h3>
+    <td width="100%" valign="top" align="center">
+      <h3>3. 2D Incompressible Fluid Dynamics Simulator</h3>
       <br />
       <a href="https://github.com/Silvera0218/Fluid-Dynamics-Silulation">
         <img src="https://raw.githubusercontent.com/Silvera0218/Fluid-Dynamics-Silulation/main/assets/vortex.gif" alt="Navier-Stokes FEM Solver" width="600"/>
       </a>
       <br />
-      <p>
+      <p align="left">
         A robust MATLAB-based solver for the 2D incompressible Navier-Stokes equations, applied to channel flow around multiple obstacles. This project demonstrates the application of advanced numerical methods to solve complex, non-linear PDEs in fluid dynamics.
       </p>
-      <ul>
+      <ul align="left">
         <li><b>Finite Element Method</b>: Utilizes stable Taylor-Hood (P2-P1) elements for spatial discretization.</li>
         <li><b>Multiple Steady-State Solvers</b>: Implements and compares Oseen, Stokes (Picard), and Approximate Newton linearization schemes.</li>
         <li><b>Unsteady Simulation</b>: Employs a full Newton solver within each time step to accurately capture time-dependent flow.</li>
