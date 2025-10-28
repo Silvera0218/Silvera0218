@@ -12,7 +12,7 @@ Beyond my core research, I am an enthusiast of **Fluid Dynamics, Differential Ge
 
 ---
 
-### Featured Astrophysical Simulations
+### Astrophysical Simulations
 
 <table>
   <tr>
@@ -57,7 +57,7 @@ Beyond my core research, I am an enthusiast of **Fluid Dynamics, Differential Ge
 
 ---
 
-### Featured Computational Physics Simulations
+### Computational Physics Simulations
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ Beyond my core research, I am an enthusiast of **Fluid Dynamics, Differential Ge
       <h3 align="center">3. 2D Incompressible Fluid Dynamics Simulator</h3>
       <br />
       <a href="https://github.com/Silvera0218/Fluid-Dynamics-Silulation">
-        <img src="https://raw.githubusercontent.com/Silvera0218/Fluid-Dynamics-Silulation/main/assets/unsteady_t11.4.png" alt="Navier-Stokes FEM Solver" />
+        <img src="https://raw.githubusercontent.com/Silvera0218/Fluid-Dynamics-Silulation/main/assets/vortex.gif" alt="Navier-Stokes FEM Solver" />
       </a>
       <br />
       <p>
