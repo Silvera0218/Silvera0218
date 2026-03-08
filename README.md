@@ -6,7 +6,7 @@ Beyond my core research, I am an enthusiast of **Fluid Dynamics, Differential Ge
 
 -  I’m interested in physically-accurate simulations of astrophysical phenomena and science fiction concept realizations.
 -  I’m self-learning **GLSL** and **ModernGL** to trace light through curved spacetime.
--  How to reach me: [mc45151@um.edu.mo]
+-  How to reach me: [mc45151@um.edu.mo] [t1667817054@163.com]
 
 <br />
 
